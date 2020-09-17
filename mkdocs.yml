@@ -1,3 +1,2 @@
 site_name: Cloudfence Wiki
-theme:
-  name: material
+theme: readthedocs
