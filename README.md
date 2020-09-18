@@ -10,8 +10,9 @@ O propósito deste repositório de documentação é compartilhar o conhecimento
   - Wazuh
   - FreeBSD e Linux em geral
 
-[Wiki em Português](pt/index.md)
-[English Wiki](en/index.md)
+[Wiki em Português](src/pt/index.md)
+
+[English Wiki](src/en/index.md)
 
 
 # Contribuição

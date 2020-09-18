@@ -1,6 +1,9 @@
 site_name: Cloudfence Wiki
+docs_dir: src
+site_dir: /
 nav:
-  - Português 'pt/index.md'
-  - English 'en/index.md'
-theme:
+  - Português: 'pt/index.md'
+  - English: 'en/index.md'
+  - OPNsense: 'pt/nginx/install.md'
+theme: 
   name: material

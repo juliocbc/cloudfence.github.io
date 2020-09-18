@@ -1,10 +1,5 @@
 # Proteção de websites com OPNsense e NGINX
 
-## Conteúdo
-+ [Instalação do plugin](#instalação-do-plugin)
-+ [Configuração Inicial](#configuração-inicial)
-+ [Conclusão](#conclusao)
-
 ## Instalação do Plugin
 Para instalar o plugin, siga os seguintes passos:
 1. Acesse seu firewall OPNsense pela interface web: https:<IP>
@@ -12,3 +7,13 @@ Para instalar o plugin, siga os seguintes passos:
 3. Encontre o plugin `os-nginx` e clique no botão install [+]
 
 ![nginx install](../../images/nginx-install-step1.gif)
+
+## Configuração
+
+* Antes de iniciarmos a configuração, vamos entender alguns dos termos utilizados pelo plugin:
+  - Upstream server:
+  - Upstream:
+  - Location: 
+  - HTTP Server:
+
+## Conclusão
