@@ -2,13 +2,17 @@
 
 # **Cloudfence Wiki**
 
-O propósito deste repositório de documentação é compartilhar o conhecimento adquirido por nós, no dia a dia de nossa operação, com todo a comunidade dos softwares livres que aqui usamos, ajudamos a manter e que fazem parte das soluções e serviços por nós prestados.
+O propósito deste repositório de documentação é compartilhar o conhecimento adquirido por nós, no dia a dia de nossa operação, com toda a comunidade dos softwares livres que aqui usamos, ajudamos a manter e que fazem parte das soluções e serviços por nós prestados.
 
 # O que irei encontrar neste repositório ?
 * Documentação auxiliar sobre projetos open source que utilizamos:
   - OPNsense
   - Wazuh
   - FreeBSD e Linux em geral
+
+[Wiki em Português](pt/index.md)
+[English Wiki](en/index.md)
+
 
 # Contribuição
 O conteúdo deste repositório é criado principalmente por membros do time técnico da Cloudfence, porém não se limitando à estes, contribuições serão sempre bem vindas e submetidas aos termos de [licença BSD](https://github.com/cloudfence/cloudfence.github.io/blob/master/LICENSE). 
